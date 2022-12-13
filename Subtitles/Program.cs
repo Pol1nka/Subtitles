@@ -25,6 +25,7 @@ namespace Subtitles
             shower.BeignWork();
 
             Console.ReadLine();
+            
         }
     }
 
